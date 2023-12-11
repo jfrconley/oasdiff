@@ -9,3 +9,5 @@ coverage.html
 
 # vscode files
 .vscode/*
+
+.idea
